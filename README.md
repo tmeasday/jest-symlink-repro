@@ -5,9 +5,11 @@ To reproduce:
 1. `npm install`.
 2. Run `node index.js`. You should see
 
-    $ node index.js
-    a was required
-    done
+```
+$ node index.js
+a was required
+done
+```
     
 3. Run `npm test`. You should see
 
